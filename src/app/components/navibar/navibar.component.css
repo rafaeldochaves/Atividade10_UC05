@@ -1,0 +1,15 @@
+.nav{
+  background-color:rgb(41, 41, 41);
+  color: aqua;
+  padding: 14px;
+  display: flex;
+  justify-content: center;
+}
+.search-bar{
+  justify-content: auto;
+  background-color:rgb(211, 28, 28);
+  border:solid 1px;
+  border-radius:5px;
+  display: flex;
+  width:400px;
+}
